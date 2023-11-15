@@ -179,7 +179,7 @@ class HomePage extends StatelessWidget {
               },
               child: Text('Tambah ke Keranjang'),
               style: ElevatedButton.styleFrom(
-                primary: Colors.blue,
+                primary: Colors.green,
               ),
             ),
           ],
